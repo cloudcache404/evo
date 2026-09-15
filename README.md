@@ -161,19 +161,7 @@ Admin system
 Support system
 Telemetry
 Hosting configuration
-🖼️ Screenshots
-�
 
-Start Screen
-�
-￼
-AI Chat
-�
-￼
-Model Selection
-�
-￼
-�
 
 🏗️ Project Structure
 EvoBot/
