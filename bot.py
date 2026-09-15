@@ -62,17 +62,17 @@ BOT_ENV = "Cloud Production"
 # ----------------------------------------------------------------
 # YOUR TELEGRAM BOT TOKEN
 # ----------------------------------------------------------------
-BOT_TOKEN = "8818255174:AAHcy78fpKJE98eI3WPJC-K8Vm9EhXS2L7w"
+BOT_TOKEN ="YOUR_TELEGRAM_BOT_TOKEN"
 
 # ----------------------------------------------------------------
 # YOUR TELEGRAM NUMERIC USER ID (For Owner /admin & Support Alerts)
 # ----------------------------------------------------------------
-OWNER_ID = 8931782749
+OWNER_ID = 123456789
 
 # ----------------------------------------------------------------
 # OPENROUTER AI API KEY
 # ----------------------------------------------------------------
-OPENROUTER_API_KEY = "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"
+OPENROUTER_API_KEY = "YOU_OPEN_ROUTER_APIKEY"
 
 OPENROUTER_URL = "https://openrouter.ai/api/v1/chat/completions"
 
@@ -81,7 +81,7 @@ OPENROUTER_URL = "https://openrouter.ai/api/v1/chat/completions"
 # Point this to your live website (e.g., https://noteswallah.xyz/api/bot_telemetry.php)
 # or localhost if testing locally.
 # ----------------------------------------------------------------
-PHP_MONITOR_URL = "https://noteswallah.xyz/api/bot_telemetry.php"
+PHP_MONITOR_URL = "https://example.com/api/bot_telemetry.php"
 
 PHP_API_SECRET = "NW_BOT_SECRET_2026_KEY"
 
